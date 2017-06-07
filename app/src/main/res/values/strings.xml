@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleImageSearchMVP</string>
+    <string name="search_hint">Search</string>
+    <string name="search_hint_text">Select search query and filters above.</string>
+    <string name="no_results">No Results Found</string>
+    <string name="title_activity_image_details">ImageDetailsActivity</string>
+    <string name="s_loading_image_detail">Loading image detail</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/masoomsabri/Downloads/Project/GoogleImageSearchMVP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e01fbc809e48365d7739336b2261ffef4b421a83">
+        <dex dex="/Users/masoomsabri/Downloads/Project/GoogleImageSearchMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3f928533a22f9f0a63dd67a3ea3e51ef453b502e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masoomsabri/Downloads/Project/GoogleImageSearchMVP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/masoomsabri/Downloads/Project/GoogleImageSearchMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_82d03d73c43d814d001794f2f1ea56794d796cb3/classes.dex" />
+    </item>
+
+</items>
